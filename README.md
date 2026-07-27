@@ -2,4 +2,5 @@
 "# Incident-Intelligence-AI" 
 
 
-** Deployed URL **
+*** Deployed URL ***
+https://incident-intelligence-ai-wp8n4mkdnnmtjrz9qsrhq3.streamlit.app/
